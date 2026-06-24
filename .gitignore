@@ -1,0 +1,13 @@
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 임시/백업
+*.tmp
+*~
+*.bak
+~$*
+
+# 로컬 데이터(localStorage 백업 등)
+*.local.json
